@@ -27,7 +27,8 @@ ______________________________________________________________________
 ### Rules:
 
   - rule-pcidss_4_1-1.2
+  - Adding a few PCI DSS rules for RHEL 9 here?
 
-### Implementation Status: planned
+### Implementation Status: implemented
 
 ______________________________________________________________________
